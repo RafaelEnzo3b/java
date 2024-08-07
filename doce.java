@@ -15,7 +15,7 @@ public class Doces extends JFrame implements ActionListener {
     private double[] precos = {3.50, 2.75, 1.00};
 
     public Doces() {
-        setTitle("Loja de doces da Rafa");
+        setTitle("Loja de doces do Rafa");
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new GridBagLayout());
